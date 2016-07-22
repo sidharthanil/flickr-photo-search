@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_246eb5af8d436843078d06481848f97219e2932c.jar" />
+    </item>
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_6bc06532f6628c212936fd84bdb7346d9587cddb.jar" />
+    </item>
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/gson-2.7_8dc03af9e10a9247814e82860d00443a3a47fa59.jar" />
+    </item>
+    <item
+        jar="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_57fcbf7ace0e58d26f454a76de9da5e13f1e4556.jar" />
+    </item>
+    <item
+        jar="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_0c18672d813de435ccbf229833317b5e0cec0360.jar" />
+    </item>
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_fcc4677d29ef03310ded78be434051ddf81b1d00.jar" />
+    </item>
+    <item
+        jar="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_9b880f2dec80470f177a9f00b53713a5b4ae999d.jar" />
+    </item>
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/okio-1.8.0_a524dce00aad23acebfbfcb2010133072e81285e.jar" />
+    </item>
+    <item
+        jar="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_458bb9339c3c3d0a8cd530139448d9618b9994fd.jar" />
+    </item>
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_df2172c78d519204735ca4961cc3253e976e9764.jar" />
+    </item>
+    <item
+        jar="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_8c12f0b595ccdda3d2f7c9a41317cfe5629e3075.jar" />
+    </item>
+    <item
+        jar="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_0a2876e9c372788816742d093d98133a198a538f.jar" />
+    </item>
+    <item
+        jar="/home/sid/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/sid/AndroidStudio/AndroidStudioProjects/FlickrPhotoSearch/app/build/intermediates/pre-dexed/debug/glide-3.7.0_96e39e7d1c700f31ea97d78528089dd3bcc0a0a9.jar" />
+    </item>
+
+</items>
